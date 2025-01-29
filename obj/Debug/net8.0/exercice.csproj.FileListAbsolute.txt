@@ -1,0 +1,5 @@
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.AssemblyInfoInputs.cache
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.AssemblyInfo.cs
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.csproj.CoreCompileInputs.cache
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.sourcelink.json
