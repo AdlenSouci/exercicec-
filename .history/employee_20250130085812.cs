@@ -13,7 +13,14 @@ class Employee
     public float Salaire;
 
 
+    public void Test()
+    {
 
+        Livre monLivre = new Livre("100", "Antoine", "Saint-Exupéry", 2500);
+
+
+
+    }
     public Employee(string Matricule, string Nom, string Prenom, float Salaire, DateTime DateNaissance, DateTime DateEmbauche)
     {
         this.Matricule = Matricule;
@@ -45,16 +52,16 @@ class Employee
 
         if (anciennete < 5)
         {
-            Salaire = Salaire *= 1.02f;
+            Salaire = Salaire *= 2%;
         }
 
         else if (anciennete < 10)
         {
-            Salaire = Salaire *= 1.5f;  //sur stackoverflow j'ai vu qu'on pouvait utiliser F pour les pourcentages 
+            Salaire = Salaire * 5%;  //sur stackoverflow j'ai vu qu'on pouvait utiliser F pour les pourcentages 
         }
         else
         {
-            Salaire = Salaire *= 1.10f; 
+            Salaire = Salaire * 10%; 
         }
         // je ne sais pas si je dois utiliser 1.10, 1.5, 1.02
 

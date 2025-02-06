@@ -13,7 +13,14 @@ class Employee
     public float Salaire;
 
 
+    public void Test()
+    {
 
+        Livre monLivre = new Livre("100", "Antoine", "Saint-Exupéry", 2500);
+
+
+
+    }
     public Employee(string Matricule, string Nom, string Prenom, float Salaire, DateTime DateNaissance, DateTime DateEmbauche)
     {
         this.Matricule = Matricule;

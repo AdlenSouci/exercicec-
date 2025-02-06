@@ -14,7 +14,10 @@ class Client
     public string Prenom;
     public float Tel;
 
-  
+    public void Test()
+    {
+       
+    }
     public Client(string CIN, string Nom, string Prenom, float Tel)
     {
         this.CIN = CIN;
@@ -46,12 +49,7 @@ class Compte
 
     public void Test()
     {
-       
-    }
-
-    public void CreérCompte()
-    {
-        
+        Livre monLivre = new Livre("88", "Antoine", "Saint-camember", 0658794425);
     }
 
     public void Crediter()

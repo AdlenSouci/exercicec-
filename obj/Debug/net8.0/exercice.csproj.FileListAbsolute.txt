@@ -3,3 +3,13 @@ C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.Assembl
 C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.AssemblyInfo.cs
 C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.csproj.CoreCompileInputs.cache
 C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.sourcelink.json
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\bin\Debug\net8.0\exercice.exe
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\bin\Debug\net8.0\exercice.deps.json
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\bin\Debug\net8.0\exercice.runtimeconfig.json
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\bin\Debug\net8.0\exercice.dll
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\bin\Debug\net8.0\exercice.pdb
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.dll
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\refint\exercice.dll
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.pdb
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\exercice.genruntimeconfig.cache
+C:\Users\adlen\OneDrive\Bureau\csharp\exercice\obj\Debug\net8.0\ref\exercice.dll

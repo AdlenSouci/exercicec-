@@ -49,11 +49,6 @@ class Compte
        
     }
 
-    public void CreérCompte()
-    {
-        
-    }
-
     public void Crediter()
     {
 

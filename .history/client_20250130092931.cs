@@ -46,12 +46,7 @@ class Compte
 
     public void Test()
     {
-       
-    }
-
-    public void CreérCompte()
-    {
-        
+        Livre monLivre = new Livre("88", "Antoine", "Saint-camember", 0658794425);
     }
 
     public void Crediter()
